@@ -33,7 +33,7 @@ Identificar quais variáveis possuem maior associação com a receita dos filmes
 
 ---
 
-## 🔎 Etapas do Projeto:
+## Etapas do Projeto:
 
 ### 1 Limpeza e Preparação dos Dados
 
@@ -68,7 +68,7 @@ Identificar quais variáveis possuem maior associação com a receita dos filmes
 
 ---
 
-## 💡 Principais Insights:
+## Principais Insights:
 
 ### 1. Orçamento é o principal fator associado à receita
 Filmes com maior investimento tendem a gerar maior arrecadação.
@@ -98,5 +98,14 @@ A análise indica que o sucesso financeiro de um filme está mais associado a:
 - Alcance e engajamento do público  
 
 Enquanto avaliações críticas possuem impacto mais limitado na arrecadação.
+
+---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=iPYVYBtUTyE.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Pandas.
+
 
 
