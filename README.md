@@ -1,4 +1,4 @@
-# Análise de Dados da Indústria Cinematográfica
+# Análise de Dados do Cinema (Pandas )
 
 ## Sobre o Projeto:
 
@@ -106,6 +106,7 @@ Enquanto avaliações críticas possuem impacto mais limitado na arrecadação.
 Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=iPYVYBtUTyE.
 Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
 Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Pandas.
+
 
 
 
